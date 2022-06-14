@@ -2,7 +2,9 @@
 
 A repository for all lecture, review, or other resources for the Flatiron School/Birmingham Southern College Summer 2022 Program!
 
-![jimmy fallon welcome gif from giphy](https://media.giphy.com/media/OF0yOAufcWLfi/giphy.gif)
+## Statistics Time!
+
+![very accurate statistics gif from giphy (source:anchorman)](https://media.giphy.com/media/12jHPvCe8Nh87C/giphy.gif)
 
 ## Written Instructions to Connect to This Repository:
 
