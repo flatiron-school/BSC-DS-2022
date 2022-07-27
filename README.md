@@ -2,9 +2,9 @@
 
 A repository for all lecture, review, or other resources for the Flatiron School/Birmingham Southern College Summer 2022 Program!
 
-## Statistics Time!
+## All Machine Learning All The Time
 
-![very accurate statistics gif from giphy (source:anchorman)](https://media.giphy.com/media/12jHPvCe8Nh87C/giphy.gif)
+![model training versus testing, shared by @rishiyer on twitter](https://pbs.twimg.com/media/FXMtZKtUEAElh0V.jpg)
 
 ## Written Instructions to Connect to This Repository:
 
