@@ -1,3 +1,8 @@
+# Ignoring glove files
+glove.6b/
+glove/
+glove*
+
 # Mac-specific junk file
 .DS_Store
 
